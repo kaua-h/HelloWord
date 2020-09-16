@@ -1,2 +1,2 @@
 # HelloWorld
-The start 
+Starting in programming.
